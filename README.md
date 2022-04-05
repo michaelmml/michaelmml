@@ -1,6 +1,6 @@
 ![IMG_3786 - Copy (2)](https://user-images.githubusercontent.com/84533632/161834000-4f165f1f-5fbd-4741-9c61-4fe6c66d0d61.jpg)
 
-**Natural Language Analytics**
+**Natural Language Analytics; Financial Data Science and Other Musings**
 
 - 👋 Hi, I’m Michael, a VP in structured credit and real assets investing with a mathematics background and interest in the application of data science / ML directly in the investment process
 - 👀 I’m currently interested in NLP, deep learning, transformer architecture and applications in summarisation, translation and other natural language analytical tools
